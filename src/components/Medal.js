@@ -1,4 +1,5 @@
-// src/components/Medal.js
+'use strict';
+
 import React from 'react';
 
 const typeMap = {

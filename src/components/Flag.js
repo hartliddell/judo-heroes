@@ -1,4 +1,5 @@
-// src/components/Flag.js
+'use strict';
+
 import React from 'react';
 
 const data = {
